@@ -11,3 +11,8 @@
 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/larissa-de-magalh%C3%A3es-caldeira-b294a0178/)
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+![Junimo com Stardrop](https://art.pixilart.com/40265b04cf899d2.png)
