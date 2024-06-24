@@ -5,16 +5,8 @@
 🎨 Create.  
 
 
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Larimcal&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larimcal&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-  </div>
-</div>
-
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Larimcal&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Larimcal&layout=compact&theme=radical)
 
 
 
