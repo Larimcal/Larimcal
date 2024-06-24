@@ -13,4 +13,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/larissa-de-magalh%C3%A3es-caldeira-b294a0178/)
 
-![Snake animation](https://github.com/Larimcal/Larimcal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://<seu_nome_de_usuário_github>.github.io/<seu_repositório>/github-contribution-grid-snake.svg)
