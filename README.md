@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, eu sou a Larissa 👋
 
-<!--
-**Larimcal/Larimcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💭 Think.  
+💻 Code.  
+🎨 Create.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Larimcal&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larimcal&layout=compact&theme=radical" alt="Linguagens mais usadas" width="50%" />
+</p>
+
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/larissa-de-magalh%C3%A3es-caldeira-b294a0178/)
+
+![Snake animation](https://github.com/Larimcal/Larimcal/blob/output/github-contribution-grid-snake.svg)
