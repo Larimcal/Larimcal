@@ -5,14 +5,15 @@
 🎨 Create.  
 
 
-<p align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <div>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Larimcal&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   </div>
-  <div>
+  <div style="flex: 1; margin-left: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larimcal&layout=compact&theme=radical" alt="Linguagens mais usadas" />
   </div>
-</p>
+</div>
+
 
 
 
