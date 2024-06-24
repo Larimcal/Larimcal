@@ -6,11 +6,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Larimcal&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larimcal&layout=compact&theme=radical" alt="Linguagens mais usadas" width="50%" />
+  <div style="display: inline-block; width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Larimcal&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  </div>
+  <div style="display: inline-block; width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larimcal&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  </div>
 </p>
 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/larissa-de-magalh%C3%A3es-caldeira-b294a0178/)
 
-![Snake animation](https://Larimcal.github.io/Larimcal/github-contribution-grid-snake.svg)
+- 💼 [LinkedIn](https://www.linkedin.com/in/larissa-de-magalh%C3%A3es-caldeira-b294a0178/)
