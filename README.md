@@ -5,8 +5,6 @@
 🎨 Create.  
 
 
-## 📈 Minhas Estatísticas no GitHub
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Larimcal&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larimcal&layout=compact&theme=radical" alt="Linguagens mais usadas" width="50%" />
