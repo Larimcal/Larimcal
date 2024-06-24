@@ -15,4 +15,4 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
-![Junimo com Stardrop](https://art.pixilart.com/40265b04cf899d2.png)
+![Gato preto](https://art.pixilart.com/sr2980fb86f12aws3.png)](https://art.pixilart.com/sr2980fb86f12aws3.png)
