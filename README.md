@@ -17,7 +17,7 @@
 ------------------------------------------------------------------------------------------------------------
 
 <div>
-  <a href="https://www.linkedin.com/in/larissa-de-magalh%C3%A3es-caldeira-b294a0178/">
+  <a href="https://www.linkedin.com/in/larissa-de-magalhaes-caldeira-b294a0178/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" alt="LinkedIn">
   </a>
 </div>
